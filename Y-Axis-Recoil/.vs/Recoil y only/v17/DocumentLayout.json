@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RecoilTime||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\recoil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\recoil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\custommessagebox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\custommessagebox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\recoiltime\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|solutionrelative:recoiltime\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF94AB9-C618-40EF-96F5-5B1A1A02D80C}|RecoilTime\\RecoilTime.csproj|c:\\users\\domin\\desktop\\rando sources do delete\\recoil control projects\\x\u002By axis\\y-axis-recoil\\recoiltime\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "RecoilTime\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwCkAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:39:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "RecoilTime\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:39:34.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecoilTime",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\RecoilTime.csproj",
+              "RelativeDocumentMoniker": "RecoilTime\\RecoilTime.csproj",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\RecoilTime.csproj",
+              "RelativeToolTip": "RecoilTime\\RecoilTime.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-23T04:35:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Program.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\Program.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Program.cs",
+              "RelativeToolTip": "RecoilTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:33:30.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\MainForm.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\MainForm.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\MainForm.cs [Design]",
+              "RelativeToolTip": "RecoilTime\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:11:34.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\MainForm.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\MainForm.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\MainForm.cs",
+              "RelativeToolTip": "RecoilTime\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:12:48.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "RecoilTime\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:39:56.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomMessageBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\CustomMessageBox.cs [Design]",
+              "RelativeToolTip": "RecoilTime\\CustomMessageBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:37:36.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recoil.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Recoil.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\Recoil.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Recoil.cs",
+              "RelativeToolTip": "RecoilTime\\Recoil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:52:40.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Win32.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Win32.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\Win32.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\Win32.cs",
+              "RelativeToolTip": "RecoilTime\\Win32.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:52:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\CustomMessageBox.cs",
+              "RelativeToolTip": "RecoilTime\\CustomMessageBox.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:37:38.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomMessageBox.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\CustomMessageBox.Designer.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\CustomMessageBox.Designer.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\CustomMessageBox.Designer.cs",
+              "RelativeToolTip": "RecoilTime\\CustomMessageBox.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:38:05.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "RecoilTime\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\domin\\Desktop\\rando sources do delete\\Recoil Control Projects\\X\u002BY Axis\\Y-Axis-Recoil\\RecoilTime\\MainForm.Designer.cs",
+              "RelativeToolTip": "RecoilTime\\MainForm.Designer.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAswEsBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:12:55.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
